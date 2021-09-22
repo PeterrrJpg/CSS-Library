@@ -11,3 +11,9 @@ body {
     justify-content: center;
     background: #ACEFAD;
 }
+
+.text {
+    font-size: 60px;
+    color: #336878;
+    cursor: pointer;
+}
